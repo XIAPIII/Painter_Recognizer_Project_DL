@@ -1,0 +1,2 @@
+所有的预处理权重可在pytorch的torchvision.models的各个模型文件中找到下载地址
+解压至模型相应路径
